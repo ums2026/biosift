@@ -37,7 +37,8 @@ The boundary is enforced by a single choke point and asserted by a test.
 
 ## Demo
 
-<img width="500" alt="Adobe Express - demos (1)" src="https://github.com/user-attachments/assets/0e0a15e3-efaf-4218-abdb-d9a579415c41" />
+<img width="290" height="140" alt="Adobe Express - demos (1)" src="https://github.com/user-attachments/assets/c86ac469-85c7-4635-87bf-e4d08c408d4d" />
+
 
 ## Architecture
 
