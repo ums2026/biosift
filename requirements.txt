@@ -1,0 +1,9 @@
+streamlit>=1.40,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+scipy>=1.13,<2
+pydantic>=2.8,<3
+anthropic>=0.69,<1
+pypdf>=5,<7
+python-dotenv>=1,<2
+pytest>=8,<10
