@@ -35,6 +35,10 @@ The boundary is enforced by a single choke point and asserted by a test.
 - **Domain-aware validation** — detects subject leakage across train/test splits,
   treatment–batch confounding, duplicate identifiers, and missing design cells.
 
+## Demo
+
+<img width="418" height="226" alt="demoVideo (1)" src="https://github.com/user-attachments/assets/5e0a5a31-71d6-497a-9d80-f85af2ab0de3" />
+
 
 ## Architecture
 
