@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/ums2026/biosift/actions/workflows/ci.yml/badge.svg)](https://github.com/ums2026/biosift/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License: Apache 2.0](https://shields.io)](https://opensource.org)
 
 **Privacy-preserving biomedical metadata curation.** BioSift turns cryptic
 experimental metadata and a study protocol into a standardized, reviewable,
@@ -247,4 +247,4 @@ reviewed before use in real research pipelines.
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [Apache 2.0 License](LICENSE).
