@@ -37,7 +37,7 @@ The boundary is enforced by a single choke point and asserted by a test.
 
 ## Demo
 
-<img width=3.0 alt="demos (1)" src="https://github.com/user-attachments/assets/79ec290a-c4d4-433f-b457-23818cb22fe2" />
+<img width="800" alt="demos (1)" src="https://github.com/user-attachments/assets/79ec290a-c4d4-433f-b457-23818cb22fe2" />
 
 ## Architecture
 
